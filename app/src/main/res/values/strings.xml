@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="food1">Caesar Salad</string>
+    <string name="food2">Food2</string>
+    <string name="food3">Meet Burger</string>
+    <string name="food4">Food4</string>
+    <string name="food5">cheese Fries</string>
+    <string name="food6">Food6</string>
+    <string name="food7">Food7</string>
+    <string name="food8">Steak</string>
+    <string name="food9">Pasta</string>
+    <string name="food10">Food10</string>
+    <string name="food">Food11</string>
+    <string name="price">Price</string>
+    <string name="food_1">Food12</string>
+
+
+</resources>
