@@ -1,3 +1,6 @@
 package com.example.food.model
 
-data class Food( var name: Int)
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+data class Food( @DrawableRes val image:Int,@StringRes val price: Int, @StringRes val name: Int)
